@@ -1,0 +1,8 @@
+setup.py
+sampling.egg-info/PKG-INFO
+sampling.egg-info/SOURCES.txt
+sampling.egg-info/dependency_links.txt
+sampling.egg-info/top_level.txt
+src/furthest_point_sample.cpp
+src/furthest_point_sample_api.cpp
+src/furthest_point_sample_gpu.cu

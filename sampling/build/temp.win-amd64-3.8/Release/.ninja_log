@@ -1,0 +1,4 @@
+# ninja log v5
+1	7108	7681396119925810	D:/python/Projects/Projects/PCS/temp/sampling/build/temp.win-amd64-3.8/Release/src/furthest_point_sample.obj	671e157e5073f31b
+5	11947	7681396168301651	D:/python/Projects/Projects/PCS/temp/sampling/build/temp.win-amd64-3.8/Release/src/furthest_point_sample_api.obj	95993fe48be6b611
+9	24358	7681396292176012	D:/python/Projects/Projects/PCS/temp/sampling/build/temp.win-amd64-3.8/Release/src/furthest_point_sample_gpu.obj	a9406321eb1498f8
